@@ -8,3 +8,8 @@ Hasil run code
 
 Confirmation Prompt saat mau delete
 ![Screenshot 2024-03-11 at 12 02 33](https://github.com/asyqari/LP5DPBO2024C1/assets/90365732/d00424b9-dced-4e1f-a0b0-58ca8a77c4db)
+
+Step untuk confirmation prompt:
+1. buat variable choice yang menampung pilihan yes or no
+2. menggunakan JOptionPane untuk memunculkan confirm dialog lalu nanti ada pilihan yes or no
+3. melakukan aksi sesuai pilihan
